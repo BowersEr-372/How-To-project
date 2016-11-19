@@ -1,0 +1,11 @@
+{
+	"name": "GET_and_POST_checker",
+	"description": "A page that can receive and display GET and POST (URL and Body) requests",
+	"author": "Erik Bowers",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.2",
+    "express-handlebars": "^2.0.1",
+    "express-session": "^1.11.3"
+  }
+}
